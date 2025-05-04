@@ -6,7 +6,7 @@ Este projeto é um **Dashboard interativo** criado com **Streamlit**, que permit
 
 |         Dashboard Principal          |        Página de Reviews         |
 | :----------------------------------: | :------------------------------: |
-| ![Dashboard](./images/dashboard.png) | ![Reviews](./images/reviews.png) |
+| ![Dashboard](github/images/projetoImg1.png) | ![Reviews](github/images/projetoImg2.png) |
 
 ---
 
