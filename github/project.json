@@ -1,14 +1,14 @@
 {
-  "highlights": [
+  "destaques": [
     "Desenvolvido com foco em performance",
     "Integração com API externa",
     "Design responsivo"
   ],
   "status": "Concluído",
-  "mainFeatures": [
+  "principaisFuncionalidades": [
     "Dashboard interativo",
     "Exportação de relatórios em PDF",
     "Exportação de relatórios em CSV"
   ],
-  "libs": ["Pandas", "Streamlit", "Plotly Express"]
+  "tecnologias": ["Pandas", "Streamlit", "Plotly Express"]
 }
