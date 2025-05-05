@@ -1,11 +1,11 @@
 {
-  "destaques": [
+  "highlights": [
     "Desenvolvido com foco em performance",
     "Integração com API externa",
     "Design responsivo"
   ],
-  "status": "Concluido",
-  "principaisFuncionalidades": [
+  "status": "Concluído",
+  "mainFeatures": [
     "Dashboard interativo",
     "Exportação de relatórios em PDF",
     "Exportação de relatórios em CSV"
